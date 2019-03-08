@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Face Detection</string>
+    <string name="take_picture">Take Picture</string>
+    <string name="taken_image">Taken Image</string>
+    <string name="permission_granted">Permission Granted</string>
+    <string name="permission_denied">Permission Denied</string>
+    <string name="emoji">emoji</string>
+</resources>
